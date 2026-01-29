@@ -32,4 +32,4 @@ Most real-world ML performance gains come from **better features**, not complex 
 ## How to run
 1. Clone the repository
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/harshwadari/Feature-Engineering
